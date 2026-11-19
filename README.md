@@ -4,7 +4,7 @@ Source unique de vérité du design system de la formation **Design System & IA 
 
 > Une bibliothèque décrit ce qui existe. Ce dépôt explique aussi **pourquoi**, **quand** et **comment** l'utiliser.
 
-- **Figma** : [Formation Design System — IA](https://www.figma.com/design/S5w6gdpuYhKzlqm0WW1Xu9/) · pages « Design System J3 » (fondations) et « Composants J3 » (composants)
+- **Figma** : [Formation Design System — IA](https://www.figma.com/design/ZDXTTkGWVQ7v8M6t2tlVig/Formation-Design-System---IA---16-18_11_26?node-id=218-2&p=f&t=v70yjNH2TUfkUiOL-0) · pages « Design System J3 » (fondations) et « Composants J3 » (composants)
 - **Base technique** : [shadcn/ui](https://ui.shadcn.com) + [Tailwind CSS v4](https://tailwindcss.com) + [Radix UI](https://www.radix-ui.com)
 - **Format des tokens** : [W3C Design Tokens (DTCG)](https://www.designtokens.org/tr/drafts/format/)
 
